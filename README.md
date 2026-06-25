@@ -2,7 +2,7 @@
 
 Application de machine learning qui prédit la probabilité qu'un client télécom résilie son abonnement, avec recommandations business automatiques.
 
-🔗 **[Voir l'application en ligne](COLLE-TON-LIEN-ICI)**
+🔗 **[Voir l'application en ligne](https://churn-predictor-dm4xkeajaymxt2kinyj8bq.streamlit.app/)**
 
 ---
 
